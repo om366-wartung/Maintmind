@@ -1,12 +1,6 @@
-MAINTMIND – interaktiver Reihensechszylinder-Prototyp
+MAINTMIND – Veröffentlichungsfassung
 
-index.html in einem aktuellen Browser mit Internetverbindung öffnen.
-Die Three.js-Bibliothek wird über ein CDN geladen. Bei lokalen Browser-Einschränkungen
-kann man den Ordner auch mit `python -m http.server 8000` bereitstellen.
-
-Funktionen: Drehen, Zoomen, Bauteile anklicken, Motorbewegung starten,
-Explosionsgrad per Regler verändern, Reset.
-
-WICHTIG: Dies ist ein selbst erstelltes, schematisches technisches 3D-Modell,
-KEIN originalgetreuer oder zertifizierter Schiffsmotor. Es stellt keine
-Herstellerwartungsintervalle oder realen technischen Toleranzen dar.
+1. index.html im Browser öffnen.
+2. Für die öffentliche Website E-Mail/Impressum/Datenschutz ergänzen.
+3. Der 3D-Motor lädt Three.js über jsDelivr und benötigt daher eine Internetverbindung.
+4. Die Motorvisualisierung ist ein selbst erstelltes technisches Konzeptmodell, kein Herstellermodell.
